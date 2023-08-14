@@ -10,5 +10,5 @@ The dataset link of this project : https://www.kaggle.com/datasets/START-UMD/gtd
 
 
 
-1. Image to Pencil Sketch with Python
-1. Iris Flower Classification ML Project
+2. Image to Pencil Sketch with Python
+3. Iris Flower Classification ML Project
