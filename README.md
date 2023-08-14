@@ -1,4 +1,4 @@
-# LGMVIP DataScience
+# LGMVIP Data Science Intern Projects 
 This repository has all the projects that, i have done as a Data Science Intern at the LetsGrowMore . 
 
 # EDA on Global Terrorism Dataset
