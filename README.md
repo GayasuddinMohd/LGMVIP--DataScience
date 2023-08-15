@@ -3,10 +3,7 @@ This repository has all the projects that, i have done as a Data Science Intern 
 
 ![Image Alt Text](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-Terrorism/blob/main/Terrorism%20Image.jpg?raw=true)
 
-# 🌸  Terrorism  🌸 
-Terrorism, the calculated use of violence to create a general climate of fear in a population and thereby to bring about a particular political objective.
-
-# 🌸  Exploratory Data Analysis on Terrorism  🌸
+#  ✨ Exploratory Data Analysis on Terrorism  ✨
 The Terrorism Dataset Analysis delves into the complex landscape of terrorist incidents worldwide, shedding light on patterns, trends, and dynamics related to acts of terrorism. In this exploratory data analysis (EDA), we will analyze the dataset to uncover insights into terrorist attacks, their characteristics, locations, and the evolving nature of global terrorism.
 
 # 🌸  Repository Overview  🌸
@@ -53,7 +50,7 @@ As we delve into this dataset, we acknowledge the tragic nature of terrorist inc
 ![Image Alt Text](https://github.com/GayasuddinMohd/LGMVIP--DataScience/blob/main/lion.png?raw=true)
 ![Image Alt Text](https://github.com/GayasuddinMohd/LGMVIP--DataScience/blob/main/Lion%20Sketch.png?raw=true)
 
-# 🌸  Image to Pencil Sketch with Python  🌸
+# ✨  Image to Pencil Sketch with Python  ✨
 Converting an image to a pencil sketch is a creative and fun image manipulation technique. In this tutorial, we will use Python to convert a regular image into a pencil sketch, giving it a hand-drawn and artistic appearance.
 
 # 🌸  Libraries Used  🌸 
@@ -69,5 +66,5 @@ As we explore this creative process, we recognize the power of programming in ge
 
 
 
-# Iris Flower Classification ML Project
+# ✨  Iris Flower Classification ML Project  ✨
 ![Image Alt Text](https://camo.githubusercontent.com/45161b81ccf78648a3298a6de77f0cb4b519369f46e19e22a0cd32a3ba622fb0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a37626e4c4b73436858713934516a744169526e3430772e706e67)
