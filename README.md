@@ -50,9 +50,24 @@ Through this EDA, we aim to understand the dynamics of terrorism, its global rea
 
 As we delve into this dataset, we acknowledge the tragic nature of terrorist incidents and their far-reaching consequences. The Terrorism Dataset Analysis serves as a reminder of the challenges that nations and societies face in confronting acts of violence and extremism, and the importance of fostering security, peace, and international cooperation.
 
-# Image to Pencil Sketch with Python
 ![Image Alt Text](https://github.com/GayasuddinMohd/LGMVIP--DataScience/blob/main/lion.png?raw=true)
 ![Image Alt Text](https://github.com/GayasuddinMohd/LGMVIP--DataScience/blob/main/Lion%20Sketch.png?raw=true)
+
+# 🌸  Image to Pencil Sketch with Python  🌸
+Converting an image to a pencil sketch is a creative and fun image manipulation technique. In this tutorial, we will use Python to convert a regular image into a pencil sketch, giving it a hand-drawn and artistic appearance.
+
+# 🌸  Libraries Used  🌸 
+We will primarily use the following Python libraries for this task:
+1. OpenCV: For image manipulation and processing.
+2. NumPy: For numerical operations on arrays.
+3. Matplotlib: For displaying the original and sketch images.
+
+# 🌸  Conclusion  🌸
+Image to pencil sketch conversion is a fascinating technique that transforms ordinary images into artistic drawings. By leveraging Python libraries like OpenCV, NumPy, and Matplotlib, you can experiment with various images and create captivating sketches.
+
+As we explore this creative process, we recognize the power of programming in generating visually appealing and imaginative outputs. This technique can serve as a starting point for more advanced image manipulation projects and artistic endeavors.
+
+
 
 # Iris Flower Classification ML Project
 ![Image Alt Text](https://camo.githubusercontent.com/45161b81ccf78648a3298a6de77f0cb4b519369f46e19e22a0cd32a3ba622fb0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a37626e4c4b73436858713934516a744169526e3430772e706e67)
