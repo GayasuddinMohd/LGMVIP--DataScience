@@ -49,4 +49,8 @@ This Project is thorugh application of machine learning with python programming.
 # Dataset  
 * Download the dataset from [Kaggle](https://www.kaggle.com/datasets/saurabh00007/iriscsv?select=Iris.csv).
 
+# Final conclusion
+* The testing accuracy is 1.0 which is higher than training accuracy.This suggests that model will make accurate prediction on new sample.
+* The training accuarcy is 0.97 which is slightly less than testing accuracy.This indicates that the model fit the training data quite well.
+* Overall model exhibits high accuracy on both the training and testing data, which is a positive outcome.
 
