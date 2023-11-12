@@ -1,7 +1,7 @@
 # 🔴  LGMVIP Data Science Intern Projects  🔴
 This repository has all the projects that, i have done as a Data Science Intern at the LetsGrowMore.
 
-![Image Alt Text](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-Terrorism/blob/main/Terrorism%20Image.jpg?raw=true)
+![Image Alt Text](https://i.guim.co.uk/img/media/4eccf49f2cc53d7fb74c73afdd20f9e0af3fc850/0_0_5616_3744/master/5616.jpg?width=620&dpr=2&s=none)
 
 #  ✨ Exploratory Data Analysis on Terrorism  ✨
 The Terrorism Dataset Analysis delves into the complex landscape of terrorist incidents worldwide, shedding light on patterns, trends, and dynamics related to acts of terrorism. In this exploratory data analysis (EDA), we will analyze the dataset to uncover insights into terrorist attacks, their characteristics, locations, and the evolving nature of global terrorism.
