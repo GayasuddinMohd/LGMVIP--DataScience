@@ -12,7 +12,7 @@ The Terrorism Dataset Analysis delves into the complex landscape of terrorist in
 # Dataset  
 * Download the dataset from [Kaggle](https://www.kaggle.com/datasets/START-UMD/gtd?select=globalterrorismdb_0718dist.csv).
 
-# 🌸  Summary  🌸
+# Insights
 * 2014 was the deadliest year, where the maximum number of attacks takes place.
 * After 2010 there is huge growth in the terrorist attacks in almost all regions of the world.
 * Middle East & North Africa and South Asia has the highest number of attacks among all regions in the world.
@@ -27,28 +27,15 @@ The Terrorism Dataset Analysis delves into the complex landscape of terrorist in
 * In 2014 is the worst year for Iraqis.In the year 2014, 13965 people was killed by terrorism.And if we talk about the organization which is responsible for most number of iraqis death is Islamic State of Iraq and the Levant (ISIL).Islamic State of Iraq and the Levant (ISIL) attacks about more than 1000 times in year 2014.
 * Terrorists target Private Citizens & Property maximum number of times.
 * Year 2014 is the deadliest year in the history of terrorism. About 16000 people died in the single year by terrorism.
-
-# 🌸  Conclusion  🌸
-Through this EDA, we aim to understand the dynamics of terrorism, its global reach, and the impact on societies. The analysis will provide insights into the evolution of terrorist tactics, the role of regions, and the need for effective counterterrorism measures.
-
-As we delve into this dataset, we acknowledge the tragic nature of terrorist incidents and their far-reaching consequences. The Terrorism Dataset Analysis serves as a reminder of the challenges that nations and societies face in confronting acts of violence and extremism, and the importance of fostering security, peace, and international cooperation.
-
+  
 ![Image Alt Text](https://c4.wallpaperflare.com/wallpaper/463/958/388/lion-king-lion-wallpaper-preview.jpg)
 ![Image Alt Text](https://i.postimg.cc/nrDVtT13/lion.png)
 
-# ✨  Image to Pencil Sketch with Python  ✨
+# Image to Pencil Sketch with Python  
 Converting an image to a pencil sketch is a creative and fun image manipulation technique. In this tutorial, we will use Python to convert a regular image into a pencil sketch, giving it a hand-drawn and artistic appearance.
 
-# 🌸  Libraries Used  🌸 
-We will primarily use the following Python libraries for this task:
-1. OpenCV: For image manipulation and processing.
-2. NumPy: For numerical operations on arrays.
-3. Matplotlib: For displaying the original and sketch images.
-
-# 🌸  Conclusion  🌸
-Image to pencil sketch conversion is a fascinating technique that transforms ordinary images into artistic drawings. By leveraging Python libraries like OpenCV, NumPy, and Matplotlib, you can experiment with various images and create captivating sketches.
-
-As we explore this creative process, we recognize the power of programming in generating visually appealing and imaginative outputs. This technique can serve as a starting point for more advanced image manipulation projects and artistic endeavors.
+# Technologies Used  
+* Python
 
 ![Image Alt Text](https://camo.githubusercontent.com/45161b81ccf78648a3298a6de77f0cb4b519369f46e19e22a0cd32a3ba622fb0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a37626e4c4b73436858713934516a744169526e3430772e706e67)
 
