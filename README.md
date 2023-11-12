@@ -47,8 +47,8 @@ Through this EDA, we aim to understand the dynamics of terrorism, its global rea
 
 As we delve into this dataset, we acknowledge the tragic nature of terrorist incidents and their far-reaching consequences. The Terrorism Dataset Analysis serves as a reminder of the challenges that nations and societies face in confronting acts of violence and extremism, and the importance of fostering security, peace, and international cooperation.
 
-![Image Alt Text](https://github.com/GayasuddinMohd/LGMVIP--DataScience/blob/main/lion.png?raw=true)
-![Image Alt Text](https://github.com/GayasuddinMohd/LGMVIP--DataScience/blob/main/Lion%20Sketch.png?raw=true)
+![Image Alt Text](https://c4.wallpaperflare.com/wallpaper/463/958/388/lion-king-lion-wallpaper-preview.jpg)
+![Image Alt Text](https://i.postimg.cc/nrDVtT13/lion.png)
 
 # ✨  Image to Pencil Sketch with Python  ✨
 Converting an image to a pencil sketch is a creative and fun image manipulation technique. In this tutorial, we will use Python to convert a regular image into a pencil sketch, giving it a hand-drawn and artistic appearance.
