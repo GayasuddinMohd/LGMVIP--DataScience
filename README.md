@@ -34,7 +34,7 @@ The Terrorism Dataset Analysis delves into the complex landscape of terrorist in
 # Image to Pencil Sketch with Python  
 Converting an image to a pencil sketch is a creative and fun image manipulation technique. In this tutorial, we will use Python to convert a regular image into a pencil sketch, giving it a hand-drawn and artistic appearance.
 
-# Technologies Used  
+# Skills  
 * Python
 
 ![Image Alt Text](https://camo.githubusercontent.com/45161b81ccf78648a3298a6de77f0cb4b519369f46e19e22a0cd32a3ba622fb0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a37626e4c4b73436858713934516a744169526e3430772e706e67)
@@ -42,7 +42,7 @@ Converting an image to a pencil sketch is a creative and fun image manipulation 
 # Iris Flower Classification
 This Project is thorugh application of machine learning with python programming. It focuses on IRIS flower classification using Machine Learning with scikit tools. 
 
-# Technologies Used  
+# Skills 
 * Python
 * Machine Learning
 
