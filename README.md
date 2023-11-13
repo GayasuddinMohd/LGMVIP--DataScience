@@ -6,7 +6,7 @@ This repository has all the projects that, i have done as a Data Science Intern 
 # Exploratory Data Analysis on Terrorism  
 The Terrorism Dataset Analysis delves into the complex landscape of terrorist incidents worldwide, shedding light on patterns, trends, and dynamics related to acts of terrorism. In this exploratory data analysis (EDA), we will analyze the dataset to uncover insights into terrorist attacks, their characteristics, locations, and the evolving nature of global terrorism.
 
-# Technologies Used  
+# Skills
 * Python
 
 # Dataset  
